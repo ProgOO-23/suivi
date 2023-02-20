@@ -1,5 +1,5 @@
 # Utile
-- [exercices](https://github.com/tony-maulaz/info2-exercices)
+- [exercices](https://github.com/tony-maulaz/poo-exercices)
 
 # Suivi de cours
 
