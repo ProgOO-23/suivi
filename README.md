@@ -5,3 +5,11 @@
 
 ### 20-02-2023
 - Introduction
+- Chaînes de caractères
+- Cin / Cout
+
+### 27-02-2023
+- Objet
+- Constructeur
+- Initialisation
+
