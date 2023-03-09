@@ -19,4 +19,8 @@
 A faire :
 - Quiz
 
-### 
+### 13.03.23
+- Allocation
+- UML
+- Test du type d'une classe
+- Construction et destruction pointeur C++ 17
