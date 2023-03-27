@@ -24,3 +24,6 @@ A faire :
 - UML
 - Test du type d'une classe
 - Construction et destruction pointeur C++ 17
+
+### 27.03.23
+- Exceptions
