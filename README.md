@@ -27,3 +27,6 @@ A faire :
 
 ### 27.03.23
 - Exceptions
+
+### 08.05.23
+- Exemple animaux
